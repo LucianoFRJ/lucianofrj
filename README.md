@@ -34,3 +34,12 @@ int main() {
 
     std::
 
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=green)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
