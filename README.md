@@ -1,18 +1,28 @@
+<h1 align="center">👨‍💻 Systems Analysis & Cybersecurity</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="500">
+</p>
+
+---
+
+### 🧠 About Me
+```cpp
 #include <iostream>
 #include <cstdlib>
 
 int main() {
     constexpr const char* bio = 
-        "I am a Systems Analysis and Development student, passionate about cybersecurity career.\n"
+        "I am a Systems Analysis and Development student, passionate about cybersecurity.\n"
         "Currently studying to become a Pentester.\n";
 
     constexpr const char* subjects =
-        "I am currently studying Systems Analysis and Development (ADS), focusing on:\n"
+        "Currently focused on:\n"
         " - Cybersecurity Professional Training (SYCP) by Solyd\n"
-        " - Computer Networking fundamentals (Cisco courses)\n"
+        " - Computer Networking (Cisco courses)\n"
         " - Network Security and Infrastructure\n"
-        " - Ethical Hacking and Cyber Defense concepts\n"
-        " - Information Security and Cybersecurity practices\n";
+        " - Ethical Hacking and Cyber Defense\n"
+        " - Information Security practices\n";
 
     constexpr const char* status = 
         "[  0.000001 ] Kernel Panic - Fatal Error\n"
@@ -22,6 +32,4 @@ int main() {
     std::cout << bio << '\n' << subjects << '\n';
     std::cerr << status << std::endl;
 
-    std::exit(EXIT_FAILURE);
-    return 0;
-}
+    std::
