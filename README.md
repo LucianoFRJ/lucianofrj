@@ -33,3 +33,17 @@ int main() {
     std::cerr << status << std::endl;
 
     std::
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
+</p>
+
+- Cybersecurity Fundamentals  
+- Computer Networking  
+- Linux (Command Line)  
+- Python (Scripting)  
+- Network Security  
+- Information Security  
+
