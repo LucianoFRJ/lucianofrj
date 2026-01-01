@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Systems Analysis & Cybersecurity</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR4dGk3Mjgxd3ZuZWZ4aGs4b3p6bzh3YzJ4dmhnbHQzdW9lY3N4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR4dGk3Mjgxd3ZuZWZ4aGs4b3p6bzh3YzJ4dmhnbHQzdW9lY3N4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="700">
 </p>
 
 ---
