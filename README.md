@@ -1,11 +1,10 @@
 #include <iostream>
 #include <cstdlib>
 
-
 int main() {
     constexpr const char* bio = 
         "I am a Systems Analysis and Development student, passionate about cybersecurity career.\n"
-        ""Currently studying to be a pentester\n";
+        "Currently studying to become a Pentester.\n";
 
     constexpr const char* subjects =
         "I am currently studying Systems Analysis and Development (ADS), focusing on:\n"
@@ -21,9 +20,8 @@ int main() {
         "[  0.000003 ] System halted.\n";
 
     std::cout << bio << '\n' << subjects << '\n';
-
     std::cerr << status << std::endl;
-    std::exit(EXIT_FAILURE); 
 
+    std::exit(EXIT_FAILURE);
     return 0;
 }
